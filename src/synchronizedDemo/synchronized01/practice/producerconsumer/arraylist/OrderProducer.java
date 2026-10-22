@@ -1,4 +1,4 @@
-package synchronizedDemo.synchronized01.practice.producerconsumer.multipleSlotBuffer.arraylist;
+package synchronizedDemo.synchronized01.practice.producerconsumer.arraylist;
 
 /**
  * Represents the Producer in the Producer-Consumer problem.

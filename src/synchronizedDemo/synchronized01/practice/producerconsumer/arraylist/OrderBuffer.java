@@ -1,4 +1,4 @@
-package synchronizedDemo.synchronized01.practice.producerconsumer.multipleSlotBuffer.arraylist;
+package synchronizedDemo.synchronized01.practice.producerconsumer.arraylist;
 
 import java.util.ArrayList;
 

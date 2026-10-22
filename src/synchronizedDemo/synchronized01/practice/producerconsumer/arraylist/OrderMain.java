@@ -1,4 +1,4 @@
-package synchronizedDemo.synchronized01.practice.producerconsumer.multipleSlotBuffer.arraylist;
+package synchronizedDemo.synchronized01.practice.producerconsumer.arraylist;
 
 /**
  * Entry point for the Producer-Consumer application using an ArrayList.
